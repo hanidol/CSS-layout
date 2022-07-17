@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon / LetterNotification</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.84615385,1 C1.50628631,1 1.23076923,1.27551751 1.23076923,1.61538505 C1.23089858,1.67105312 1.23858084,1.72644623 1.25360578,1.78004849 C1.25400271,1.78125165 1.25440335,1.78245359 1.25480769,1.78365428 L1.84615385,5.92307735 L0,7.15384658 L12.9230769,8.38461582 L0,9.61538505 L1.84615385,10.8461543 L1.25480769,14.9867795 C1.23915947,15.0411001 1.23107058,15.0973178 1.23076923,15.1538466 C1.23076923,15.4937141 1.50628631,15.7692312 1.84615385,15.7692312 C1.92796787,15.768788 2.00887222,15.7520351 2.08413465,15.7199524 L2.08533655,15.7211543 L2.11177883,15.7079334 L2.125,15.7019235 C2.12862582,15.6999565 2.13223176,15.6979531 2.13581729,15.6959137 L15.625,8.95192351 L15.6262018,8.94951982 C15.8525506,8.85290426 15.9995692,8.63072177 16,8.38461582 C16,8.13778417 15.8522209,7.91492855 15.625,7.81850997 C15.6250004,7.81810935 15.6250004,7.81770874 15.625,7.81730812 L15.6237982,7.81730812 L2.14062498,1.0757216 C2.12267024,1.06558648 2.10421749,1.05636009 2.08533655,1.04807735 C2.00961641,1.0162501 1.92829095,1 1.84615385,1 Z" id="path-1"></path>
+    </defs>
+    <g id="Facility-zone---Ready-for-coding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facility-zone-tuotempo-advantadges" transform="translate(-970.000000, -1921.000000)">
+            <g id="Value-proposition" transform="translate(250.000000, 1812.000000)">
+                <g id="Text" transform="translate(698.000000, 0.000000)">
+                    <g id="Item-1" transform="translate(2.000000, 81.000000)">
+                        <g id="Icon-/-LetterNotification" transform="translate(20.000000, 27.666795)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="LetterNotification" fill="#59CC79" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,56 @@
+/* custom helpers */
+
+.section-headline {
+  max-width: 730px;
+}
+
+.min-paragraph-height{
+  min-height: 250px;
+}
+
+.collapsible-link:hover {
+  cursor: pointer;
+}
+
+.collapsible-link:after {
+    background-image: url(https://cdn2.hubspot.net/hubfs/442271/New%20Pricing%20LP%202020/collapse-caret-blue.svg);
+    background-repeat: no-repeat;
+    content: '';
+    display: inline-block;
+    height: 16px;
+    margin-left: 6px;
+    position: relative;
+    top: 0;
+    transition: all .3s ease-out;
+    width: 16px;
+}
+
+.collapsible-link.active:after {
+    transform: rotate(180deg) !important;
+}
+
+.paragraph {
+  max-height: 72px;
+  transition: max-height 0.25s ease-in-out 0s;
+}
+
+.full-icons-width .row img{
+  width: auto !important;
+  height: auto !important;
+}
+
+.buttons-container .hs_cos_wrapper_type_cta:nth-of-type(2) a.cta_button {
+    margin-left: 12px !important;
+}
+
+@media (max-width: 575px) {
+    .buttons-container .hs_cos_wrapper_type_cta:nth-of-type(2) a.cta_button {
+      margin-left: 0 !important;
+      margin-top: 16px !important;
+    }
+
+   .buttons-container a.cta_button {
+      box-sizing: border-box !important;
+      width: 100%;
+  }
+}
